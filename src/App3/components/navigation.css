@@ -1,0 +1,20 @@
+.btn-search {
+    color: #b45b35;
+    border: 3px solid #b45b35;
+    border-radius: 8px;
+    background-color: white;
+}
+
+.btn-search:hover {
+    color: white;
+    border-radius: 3px solid white;
+    border-color: #b45b35;
+    background-color: #b45b35;
+    border-radius: 8px;
+}
+
+
+
+.brand-color{
+    color: #b45b35;
+}

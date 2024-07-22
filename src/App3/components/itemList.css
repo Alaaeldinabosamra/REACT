@@ -1,0 +1,31 @@
+.img-item{
+    width: 252px;
+    height: 180px;
+    border-radius: 5px;
+}
+
+.item-description {
+    color: #8c8c8c;
+    font-family: Almarai;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 20px;
+}
+
+.item-title {
+    color: #555555;
+    font-family: Almarai;
+    font-size: 16px;
+    font-weight: bold;
+    letter-spacing: 0;
+    line-height: 20px;
+}
+
+.item-price{
+    color: #b45b35;
+    font-size: 20x;
+}
+
+.card-color{
+    background-color: #eaeaea;
+}

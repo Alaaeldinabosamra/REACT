@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+}
+
+.color-body {
+    height: 100vh;
+    background-color: #f8f8f8;
+}
+
+.font {
+    font-family: "Almarai", sans-serif;
+    font-family: "Cairo", sans-serif;
+    font-size: 20px;
+}
+
+.title {
+    color: #a1a1a1;
+    font-family: Almarai;
+    font-size: 20px;
+    font-weight: bold;
+    letter-spacing: 0;
+}
+
